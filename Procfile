@@ -1,1 +1,0 @@
-web: gunicorn var_project.wsgi
